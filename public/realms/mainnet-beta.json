@@ -919,10 +919,11 @@
   },
   {
     "symbol": "$PANDA",
-    "displayName": "Panda Fraternity DAO",
+    "displayName": "Solana Panda Social Club",
     "programId": "Ghope52FuF6HU3AAhJuAAyS2fiqbVhkAotb7YprL5tdS",
     "realmId": "2TTR5PXXHQFTjYedHfYQpEe1GTwwYFuoywawVnSi1RLb",
-    "ogImage": "/realms/PANDA/img/PandaDAOlogo.png"
+    "ogImage": "/realms/PANDA/img/spsc_logo.png",
+    "twitter": "@SolanaPandaSC"
   },
   {
     "symbol": "XPWizards",
